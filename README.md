@@ -29,17 +29,20 @@
 - para descriptografar o arquivo use: `python decrypter.py`
 - para vizualizar o arquivo descriptografado use: `nano senhas.txt`
 
+### Comandos no terminal do kali
+
+![Alt text](./comandos.png "comandos do kali")
 
 ### Resultados
 
-### Página gerada, rodando no IP informado
+### Arquivo "senhas.txt" ORIGINAL
 
-![Alt text](./pagina-clone2.png "página clone (instagram)")
+![Alt text](./senhas-descriptografas.png "arquivo senhas original")
 
-### Credenciais usadas na página clone (elas devem ser capturadas no terminal do kali)
+### Arquivo "senhas.txt" criptografado, sendo agora "senhas.txt.ransonwaretroll"
 
-![Alt text](./entrada-senha.png "inserção das credenciais")
+![Alt text](./senhas-criptografadas.png "arquivo senhas criptografado")
 
-### Credenciais mostradas no terminal do kali (capturadas)
+### Arquivo "senhas.txt.ransonwaretroll" descriptografado, voltando agora para "senhas.txt"
 
-![Alt text](./capture-credenciais.png "captura das credenciais")
+![Alt text](./senhas-descriptografas.png "arquivo senhas descriptografado")
